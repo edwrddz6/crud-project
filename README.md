@@ -1,6 +1,6 @@
 # About
 
-This project was created to learn the fundamentals of a CRUD app. This project will connect to a MongoDB database and create new data. This README will be updated as the project is being built over time. 
+This project was created to learn the fundamentals of developing a CRUD app. This project will connect to a MongoDB database and create new data. This README will be updated as the project is being built over time. 
 
 ### List of Tech Used
 
