@@ -20,7 +20,7 @@ git clone git@github.com:edwrddz6/crud-project.git
 
 ## Guide
 
-The project is presently under development with more exciting features in the pipeline! Stay updated for upcoming additions. In the meantime, you can experiment with the project's server by forking the repository to your local device. Below are the instructions:
+The project is presently under development with more exciting features in the pipeline! Stay updated for upcoming additions. In the meantime, you can experiment with the project's server by forking the repository to your local device. Once the repo is forked, type this in your terminal:
 
 ```bash
 npm run dev
