@@ -1,6 +1,6 @@
 # About
 
-This project was created to learn the fundamentals of a CRUD app. This project will connect to a MongoDB database and create new data. This README will be updated as the project is being built over time. 
+This project was created to learn the fundamentals of developing a CRUD app. This project will connect to a MongoDB database and create new data. This README will be updated as the project is being built over time. 
 
 ### List of Tech Used
 
@@ -20,7 +20,7 @@ git clone git@github.com:edwrddz6/crud-project.git
 
 ## Guide
 
-Currently, the project is being developed and will have more features to come! Please stay tuned. For now, you can test the project's server. Here are some instructions:
+The project is presently under development with more exciting features in the pipeline! Stay updated for upcoming additions. In the meantime, you can experiment with the project's server by forking the repository to your local device. Once the repo is forked, type this in your terminal:
 
 ```bash
 npm run dev
