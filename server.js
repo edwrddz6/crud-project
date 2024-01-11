@@ -7,7 +7,7 @@ const PORT = 3000;
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json());
 
-MongoClient.connect('mongodb+srv://diazedward24:Q2G5YlRdkYsfooWP@cluster0.xn7hvno.mongodb.net/');
+MongoClient.connect('connection');
 
 app.get('/', function (req, res){
     res.sendFile(__dirname + '/index.html');
