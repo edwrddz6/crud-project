@@ -7,6 +7,8 @@ const PORT = 3000;
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json());
 
+MongoClient.connect('[connection-string]');
+
 app.get('/', function (req, res){
     res.sendFile(__dirname + '/index.html');
 });
